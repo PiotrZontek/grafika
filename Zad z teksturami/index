@@ -45,7 +45,7 @@ var textureImageURLs = [
     "../textures/marble.jpg",
     "../textures/metal003.gif",
     "../textures/mandelbrot.jpeg",
-    "../textures/Diamond_Ore.jpg"
+    "../texture/gold ore.jpg"
 ];
 
 function draw() {
